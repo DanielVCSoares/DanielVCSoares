@@ -126,7 +126,7 @@ Estou ativamente desenvolvendo projetos e aprimorando meu conhecimento em Testes
 
 📧[![E-mail](https://img.shields.io/badge/-danielvcsoares@outlook.com-0078D4?style=flat&logo=Outlook&logoColor=white&link=mailto:danielvcsoares@outlook.com)](mailto:danielvcsoares@outlook.com)
 🔗[![LinkedIn](https://img.shields.io/badge/-Daniel%20Soares-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvcsoares)](https://www.linkedin.com/in/danielvcsoares)
-[![Telefone](https://img.shields.io/badge/-+55%2031%2098874--1792-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+5531988741792)
+📞[![Telefone](https://img.shields.io/badge/-+55%2031%2098874--1792-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+5531988741792)
  
 
 **🎯 Busco oportunidades para aplicar meu conhecimento em QA e contribuir para a construção de software de alta qualidade.**
