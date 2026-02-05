@@ -2,7 +2,7 @@
 
 **QA Engineer**
 
-Sou um profissional com 34 anos, natural de Belo Horizonte, com uma trajetória de carreira diversificada que culminou em uma **transição estratégica para a Tecnologia da Informação**.
+Sou um profissional com 35 anos, natural de Belo Horizonte, com uma trajetória de carreira diversificada que culminou em uma **transição estratégica para a Tecnologia da Informação**.
 
 Minha experiência anterior em **atendimento ao cliente, vendas e gestão de projetos** (orçamentos, prazos e equipes) me proporcionou habilidades cruciais para o QA: **orientação a detalhes, comunicação clara** e um **forte foco em resultados e qualidade operacional**.
 
